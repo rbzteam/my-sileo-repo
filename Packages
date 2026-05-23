@@ -20,7 +20,7 @@ Sileodepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.vi
 Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
 
 Package: com.ivintagelover.solidglass
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Version: 2.0
 Section: Themes
 Depends: firmware (>=1.0)
