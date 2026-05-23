@@ -3,7 +3,7 @@ Name: AnimationsBeFastPlus
 Version: 5.1
 Architecture: iphoneos-arm
 Section: Tweaks
-Maintainer: RBZ
+Maintainer: rbz
 Filename: debs/com.adamseiter.animationsbefastplus_5.1_iphoneos-arm.deb
 Size: 71688
 Description: Animations tweak
@@ -22,6 +22,7 @@ Section: Tweaks
 Homepage: https://shuga.co/
 Description: Enable, fix, and customize the Dynamic Island on older devices.
 Author: ethxnn88 <ethxnn88@gmail.com>
+Maintainer: rbz
 Depiction: https://ethxnn88.github.io/repo/depiction/web/com.ethxnn88.visibleisland.html
 Icon: https://ethxnn88.github.io/repo/assets/com.ethxnn88.visibleisland/icon.png
 Moderndepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland.json
@@ -34,7 +35,7 @@ Name: SolidGlass
 Version: 2.1
 Architecture: iphoneos-arm64
 Section: Themes
-Maintainer: RBZ
+Maintainer: rbz
 Filename: debs/com.ivintagelover.solidglass_2.1_Rootless.deb
 Size: 7546328
 Description: SolidGlass theme
