@@ -1,13 +1,3 @@
-Package: com.adamseiter.animationsbefastplus
-Name: AnimationsBeFastPlus
-Version: 5.1
-Architecture: iphoneos-arm
-Section: Tweaks
-Maintainer: rbz
-Filename: debs/com.adamseiter.animationsbefastplus_5.1_iphoneos-arm.deb
-Size: 71688
-Description: Animations tweak
-
 Package: com.ethxnn88.visibleisland
 Version: 2.0
 Architecture: iphoneos-arm64
@@ -31,31 +21,20 @@ Sileodepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.vi
 Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
 
 Package: com.ivintagelover.solidglass
-Name: SolidGlass
-Version: 2.1
-Architecture: iphoneos-arm64
-Section: Themes
-Maintainer: rbz
-Filename: debs/com.ivintagelover.solidglass_2.1_Rootless.deb
-Size: 7546328
-Description: SolidGlass theme
-
-Package: org.coolstar.sileo
-Name: Sileo
-Version: 2.5.1
 Architecture: iphoneos-arm
-Section: Package Managers
-Maintainer: CoolStar
-Filename: debs/org.coolstar.sileo_2.5.1_iphoneos-arm.deb
-Size: 2906812
-Description: Sileo package manager
-
-Package: org.coolstar.sileo.arm64
-Name: Sileo ARM64
-Version: 2.5.1
-Architecture: iphoneos-arm64
-Section: Package Managers
-Maintainer: CoolStar
-Filename: debs/org.coolstar.sileo_2.5.1_iphoneos-arm64.deb
-Size: 2909972
-Description: Sileo package manager
+Version: 2.0
+Section: Themes
+Depends: firmware (>=1.0)
+Filename: ./debs/arm/com.ivintagelover.solidglass_2.0_iphoneos-arm.deb
+Size: 5891868
+MD5sum: d3a1c3a620194adc1795e704d4a30696
+SHA1: 15b2816dc8dd6470c1d2e50e97d6b7bef7b10ffb
+SHA256: db2c529f1539837e2a52b175d720c90185c135d66379779face3051cf240af3d
+SHA512: e95bad0e27783e7b4ccd4522dab1219baa5003146174f89c9c5323c9b58fac4a7219bf8f11d748cedc1dd3537086df0105cb13735b10d54792557e37b8820615
+Description: iOS 26 icons for older devices.
+Name: Solid Glass 2
+Depiction: https://github.io/depiction/web/com.ivintagelover.solidglass.html
+SileoDepiction: https://github.io/depiction/native/com.ivintagelover.solidglass.json
+ModernDepiction: https://github.io/depiction/native/com.ivintagelover.solidglass.json
+Icon: https://github.io/assets/com.ivintagelover.solidglass/icon.png
+Tags: compatible_min::ios1.0, compatible_max::ios17.5
