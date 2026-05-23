@@ -1,8 +1,8 @@
-Origin: RBZ Repo
-Label: RBZ Repo
+Origin: rbz:) repo
+Label: rbz:) repo
 Suite: stable
 Version: 1.0
 Codename: stable
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm64
 Components: main
-Description: RBZ Sileo Repo
+Description: rbz:) repo
