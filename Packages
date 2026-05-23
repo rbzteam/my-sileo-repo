@@ -13,7 +13,7 @@ Version: 2.0
 Architecture: iphoneos-arm64
 Maintainer: ethxnn88 <ethxnn88@gmail.com>
 Depends: firmware (>=16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
-Filename: ./debs/com.ethxnn88.visibleisland.deb
+Filename: debs/com.ethxnn88.visibleisland.deb
 Size: 43112
 MD5sum: 40136a71f47b99b520dc870c93391fff
 SHA1: d85804b27aff4481699dbffae54a9ef92e3b3869
